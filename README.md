@@ -29,11 +29,12 @@ To follow
 - Safari Version 10 and above
 
 ### To converse with Juzz Chatbot:
-1. Save Juzz WhatsApp business mobile number +6598463760 to your phone
-1. Search Juzz WhatsApp Business mobile number 98463760 on your WhatsApp
+1. Save Juzz WhatsApp business mobile number +659846XXXX to your phone
+1. Search Juzz WhatsApp Business mobile number +659846XXXX on your WhatsApp
 2. Start chatting with Juzz Chatbot
 
 # SECTION 6: PROJECT REPORT
+[CHATBOT AND MACHINE LEARNING FOR DATA CLASSIFICATION FOR JUZZ MARKETING](https://github.com/alanz168zz/IRS-PM-Workshop-Project-Report-Juzz/blob/main/ProjectReport/Juzz%20Chatbot%20Report.pdf) 
 <dl>
 <dt>Executive Summary</dt>
 <dt>Introduction</dt>
