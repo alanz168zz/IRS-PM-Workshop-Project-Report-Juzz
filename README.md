@@ -22,12 +22,6 @@ LAU XIANGMING **A0267144A**
 To follow
 
 # SECTION 5: USER GUIDE
-### Recommended Browsers
-- Microsoft Edge 39 and above
-- Firefox 53 and above
-- Google Chrome Version 59 and above
-- Safari Version 10 and above
-
 ### To converse with Juzz Chatbot:
 1. Save Juzz WhatsApp business mobile number +659846XXXX to your phone
 1. Search Juzz WhatsApp Business mobile number +659846XXXX on your WhatsApp
@@ -35,30 +29,12 @@ To follow
 
 # SECTION 6: PROJECT REPORT
 [CHATBOT AND MACHINE LEARNING FOR DATA CLASSIFICATION FOR JUZZ MARKETING](https://github.com/alanz168zz/IRS-PM-Workshop-Project-Report-Juzz/blob/main/ProjectReport/Juzz%20Chatbot%20Report.pdf) 
-<dl>
-<dt>Executive Summary</dt>
-<dt>Introduction</dt>
-<dt>Project Planning & Design</dt>
-	 <dd>Picture Flow Diagram</dd>
-	 <dd>WhatsApp Chatbot</dd>
-	 <dd>Sales Enquiry Handling</dd>
-	 <dd>Complaint Handling</dd>
-<dt>Database Classification</dt>
-<dt>Overall Project Scope</dt>
-<dt>Project Technicality</dt>
-<dt>Juzz Marketing Website Link Scraping</dt>
-	 <dd>Question Database</dd>
-<dt>DialogFlow</dt>
-	 <dd>User Category</dd>
-	 <dd>Testing of the Juzz Chatbot Workflow</dd>
-	 <dd>Integration with WhatsApp</dd>
-	 <dd>Classify Database’s Gender</dd>
-<dt>Limitations of Juzz WhatsApp Chatbot</dt>
-<dt>Limitations of Gender Classfication</dt>
-<dt>Future Works of Juzz WhatsApp Chatbot</dt>
-<dt>Future Works of Juzz Gender Classfication</dt>
-<dt>References</dt>
-<dt>Appendices</dt>
-</dl>
+Recommended Sections for Project Report / Paper:
+- Executive Summary
+- Introduction
+- Project Planning & Design
+- Overall Project Scope	
+- Project Technicality
+- References
 
 # SECTION 7: MISCELLANEOUS
