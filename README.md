@@ -28,15 +28,10 @@ To follow
 - Google Chrome Version 59 and above
 - Safari Version 10 and above
 
-### What We Need:
-### For WhastApp integration:
-- Google Dialogflow JSON file
-- WhatsAuto App
-
-## Instructions
-1. Download JSON file from google Dialogflow and upload to your google drive (make sure this is sync to your phone where your WhatsApp is installed)
-2. Using your phone, install WhatsAuto and set up your account accordingly.
-3. On WhatsAuto, turn on autoreply and import your JSON file
+### To converse with Juzz Chatbot:
+1. Save Juzz WhatsApp business mobile number +6598463760 to your phone
+1. Search Juzz WhatsApp Business mobile number 98463760 on your WhatsApp
+2. Start chatting with Juzz Chatbot
 
 # SECTION 6: PROJECT REPORT
 <dl>
