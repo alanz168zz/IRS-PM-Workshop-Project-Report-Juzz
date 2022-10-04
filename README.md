@@ -34,6 +34,8 @@ Recommended Sections for Project Report / Paper:
 - Executive Summary
 - Introduction
 - Project Planning & Design
+- Sales Enquiry Handling
+- Database Classification
 - Overall Project Scope	
 - Project Technicality
 - References
