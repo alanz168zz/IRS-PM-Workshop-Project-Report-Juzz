@@ -39,3 +39,4 @@ Recommended Sections for Project Report / Paper:
 
 # SECTION 7: MISCELLANEOUS
 Juzz Link scrapping.ipynb
+[Juzz Possible Enquiries](https://github.com/alanz168zz/IRS-PM-Workshop-Project-Report-Juzz/blob/main/Miscellaneous/JuzzChatBotTrainingPhrases.xlsx) 
