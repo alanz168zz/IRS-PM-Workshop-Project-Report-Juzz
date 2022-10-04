@@ -22,7 +22,7 @@ LAU XIANGMING **A0267144A**
 To follow
 
 # SECTION 5: USER GUIDE
-### To converse with Juzz Chatbot:
+To converse with Juzz Chatbot:
 1. Save Juzz WhatsApp business mobile number +659846XXXX to your phone
 1. Search Juzz WhatsApp Business mobile number +659846XXXX on your WhatsApp
 2. Start chatting with Juzz Chatbot
