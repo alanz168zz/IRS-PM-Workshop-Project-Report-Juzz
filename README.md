@@ -38,3 +38,4 @@ Recommended Sections for Project Report / Paper:
 - References
 
 # SECTION 7: MISCELLANEOUS
+Juzz Link scrapping.ipynb
