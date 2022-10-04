@@ -29,6 +29,7 @@ To follow
 
 # SECTION 6: PROJECT REPORT
 [CHATBOT AND MACHINE LEARNING FOR DATA CLASSIFICATION FOR JUZZ MARKETING](https://github.com/alanz168zz/IRS-PM-Workshop-Project-Report-Juzz/blob/main/ProjectReport/Juzz%20Chatbot%20Report.pdf) 
+
 Recommended Sections for Project Report / Paper:
 - Executive Summary
 - Introduction
@@ -39,4 +40,5 @@ Recommended Sections for Project Report / Paper:
 
 # SECTION 7: MISCELLANEOUS
 Juzz Link scrapping.ipynb
+
 [Juzz Possible Enquiries](https://github.com/alanz168zz/IRS-PM-Workshop-Project-Report-Juzz/blob/main/Miscellaneous/JuzzChatBotTrainingPhrases.xlsx) 
