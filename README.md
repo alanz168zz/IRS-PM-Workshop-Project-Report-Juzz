@@ -19,7 +19,9 @@ Juzz Chatbot is created to help solve this problem. When someone visits the webs
 LAU XIANGMING **A0267144A**
 
 # SECTION 4: VIDEO PRESENTATION
-To follow
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=6Vy8H-siWIg
+" target="_blank"><img src="http://img.youtube.com/vi/6Vy8H-siWIg/0.jpg" 
+alt="Business Presentation" width="240" height="180" border="10" /></a>
 
 # SECTION 5: USER GUIDE
 To converse with Juzz Chatbot:
