@@ -46,8 +46,10 @@ Recommended Sections for Project Report / Paper:
 - Introduction
 - Project Planning & Design
 - Sales Enquiry Handling
-- Database Classification
-- Overall Project Scope	
+- Integrate with Google DialogFlow
+- Classify Database’s Gender
+- Monitoring of Bounce rate and Sales Conversion of Landing Page
+- Overall Project Scope
 - Project Technicality
 - References
 
