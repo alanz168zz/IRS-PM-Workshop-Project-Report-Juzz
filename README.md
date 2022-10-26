@@ -9,7 +9,7 @@ Juzz Marketing is a marketing agency that provides lead generation services to b
 
 Based on the google analytics as shown in picture below, the website has a 4% bounce rate which means that for every 25 visitors who visited the website, 1 of them will exit the website after viewing 1 page. Whenever a user tries to WhatsApp Juzz for enquiry, it will take hours for them to reply due to manpower shortage. Juzz could be potentially losing customers due to this issue and we have to find possible solutions to fix this problem. Juzz also does not have a sitemap to assist user in the navigation.
 
-
+![Juzz Website Google Analytics](https://github.com/alanz168zz/IRS-PM-Workshop-Project-Report-Juzz/blob/main/Miscellaneous/juzz%20google%20analytics.png?raw=true)
 
 Juzz has a huge consumer database that consists of only name and mobile generated for its clients and wish to seek more meaningful information from this such as finding out their gender using artificial intelligence instead of manually input. There is a need to do gender classification because there may be some clients who like to target specific gender. Take for example, a facial spa that provides their services only to females may want to target all female customers only.
 
@@ -39,7 +39,7 @@ To converse with Juzz Chatbot:
 2. Start chatting with Juzz Chatbot
 
 # SECTION 6: PROJECT REPORT
-[CHATBOT AND MACHINE LEARNING FOR DATA CLASSIFICATION FOR JUZZ MARKETING](https://github.com/alanz168zz/IRS-PM-Workshop-Project-Report-Juzz/blob/main/ProjectReport/Juzz%20Chatbot%20Report.pdf) 
+[CHATBOT AND MACHINE LEARNING FOR DATA CLASSIFICATION FOR JUZZ MARKETING](https://github.com/alanz168zz/IRS-PM-Workshop-Project-Report-Juzz/blob/main/ProjectReport/Juzz%20Chatbot%20%26%20Database%20Gender%20Classification%20Report.pdf) 
 
 Recommended Sections for Project Report / Paper:
 - Executive Summary
@@ -52,6 +52,6 @@ Recommended Sections for Project Report / Paper:
 - References
 
 # SECTION 7: MISCELLANEOUS
-Juzz Link scrapping.ipynb
+[Juzz Link scrapping.ipynb](https://github.com/alanz168zz/IRS-PM-Workshop-Project-Report-Juzz/blob/main/Miscellaneous/Juzz%20Link%20scrapping.ipynb) 
 
 [Juzz Possible Enquiries](https://github.com/alanz168zz/IRS-PM-Workshop-Project-Report-Juzz/blob/main/Miscellaneous/JuzzChatBotTrainingPhrases.xlsx) 
