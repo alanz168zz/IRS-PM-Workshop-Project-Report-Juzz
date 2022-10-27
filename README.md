@@ -30,7 +30,7 @@ alt="Business Presentation" width="540" height="360" border="10" /></a>
 
 **Technical Presentation**
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=6Vy8H-siWIg
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=LgARvez5Jbk
 " target="_blank"><img src="http://img.youtube.com/vi/LgARvez5Jbk/0.jpg" 
 alt="Business Presentation" width="540" height="360" border="10" /></a>
 
